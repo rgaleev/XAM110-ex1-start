@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="songs.json" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyTunes.Shared\MyTunes.Shared.csproj">
